@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/School Application/SampleSchool/app/src/main/res/layout/fragment_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/drawable/circle.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/drawable/ic_baseline_table_view_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/activity_main.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/app_bar_home.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/content_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/fragment_gallery.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/fragment_jitsi.xml" value="0.22" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/fragment_slideshow.xml" value="0.17777777777777778" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/fragment_web_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/friday_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/home_timetable_item.xml" value="0.33" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/monday_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/nav_header_home.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/saturday_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/subject_item.xml" value="0.25" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/thursday_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/timetable_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/tuesday_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/layout/wednesday_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/menu/activity_teacher_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/SampleSchool/app/src/main/res/menu/home.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/drawable/circle.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/drawable/circle2.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/drawable/ic_attendance.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/activity_main.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/announcement_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/attendance_data_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/attendance_list_item.xml" value="0.22" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/exam_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_announcement_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_announcements.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_assignments.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_attend_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_attendance_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_attendance_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_examination.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_jitsi.xml" value="0.16111111111111112" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_my_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_quiz.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/fragment_web_view.xml" value="0.175" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/home_timetable_item.xml" value="0.22" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/nav_header_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/quiz_option_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/quiz_result_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/quiz_view_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/result_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/subject_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/timetable_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/view_assignment_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/layout/view_message_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/menu/activity_teacher_drawer.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/Gopinath Reddy/Desktop/School Application/SampleSchool/app/src/main/res/menu/home.xml" value="0.16296296296296298" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

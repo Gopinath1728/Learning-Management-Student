@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.sampleschool.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.sampleschool.ui.timetable.TimetableFragment"
+        android:label="@string/menu_timetable"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_my_courses"
+        android:name="com.example.sampleschool.ui.myCourses.MyCoursesFragment"
+        android:label="@string/menu_myCourses"
+        tools:layout="@layout/fragment_my_courses" />
+
+    <fragment
+        android:id="@+id/nav_webView"
+        android:name="com.example.sampleschool.ui.myCourses.WebViewFragment"
+        android:label="@string/menu_webView"
+        tools:layout="@layout/fragment_web_view">
+        <argument
+            android:name="subjectLink"
+            app:argType="string"
+            android:defaultValue="empty"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_jitsi"
+        android:name="com.example.sampleschool.ui.home.JitsiFragment"
+        android:label="@string/menu_class"
+        tools:layout="@layout/fragment_jitsi">
+        <argument
+            android:name="jitsiLink"
+            app:argType="string"
+            android:defaultValue="empty"/>
+        <argument
+            android:name="subjectName"
+            app:argType="string"
+            android:defaultValue="empty"/>
+        <argument
+            android:name="subjectTime"
+            app:argType="string"
+            android:defaultValue="empty"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_attendance_list"
+        android:name="com.example.sampleschool.ui.attendance.AttendanceListFragment"
+        android:label="@string/menu_view_attendance"
+        tools:layout="@layout/fragment_attendance_list" />
+
+    <fragment
+        android:id="@+id/nav_attendance_data"
+        android:name="com.example.sampleschool.ui.attendance.AttendanceDataFragment"
+        android:label="@string/menu_view_attendance"
+        tools:layout="@layout/fragment_attendance_data" />
+
+    <fragment
+        android:id="@+id/nav_quiz"
+        android:name="com.example.sampleschool.ui.quiz.QuizFragment"
+        android:label="@string/menu_view_quiz"
+        tools:layout="@layout/fragment_quiz" />
+
+    <fragment
+        android:id="@+id/nav_attend_quiz"
+        android:name="com.example.sampleschool.ui.quiz.AttendQuizFragment"
+        android:label="@string/menu_view_quiz"
+        tools:layout="@layout/fragment_attend_quiz" />
+
+    <fragment
+        android:id="@+id/nav_assignments"
+        android:name="com.example.sampleschool.ui.assignments.AssignmentsFragment"
+        android:label="@string/menu_view_assignments"
+        tools:layout="@layout/fragment_assignments" />
+
+    <fragment
+        android:id="@+id/nav_announcements"
+        android:name="com.example.sampleschool.ui.announcements.AnnouncementsFragment"
+        android:label="@string/menu_view_announcement"
+        tools:layout="@layout/fragment_announcements" />
+
+    <fragment
+        android:id="@+id/nav_announcement_detail"
+        android:name="com.example.sampleschool.ui.announcements.AnnouncementDetailFragment"
+        android:label="@string/menu_view_announcement"
+        tools:layout="@layout/fragment_announcement_detail" />
+
+    <fragment
+        android:id="@+id/nav_messages"
+        android:name="com.example.sampleschool.ui.messages.MessageFragment"
+        android:label="@string/menu_view_messages"
+        tools:layout="@layout/fragment_message" />
+
+    <fragment
+        android:id="@+id/nav_examination"
+        android:name="com.example.sampleschool.ui.examination.ExaminationFragment"
+        android:label="@string/menu_view_exams"
+        tools:layout="@layout/fragment_examination" />
+
+    <fragment
+        android:id="@+id/nav_results"
+        android:name="com.example.sampleschool.ui.results.ResultFragment"
+        android:label="@string/menu_view_results"
+        tools:layout="@layout/fragment_result" />
+</navigation>

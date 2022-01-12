@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RESULT"
+            android:textAlignment="center"
+            android:layout_centerHorizontal="true"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/hvd"
+            android:textStyle="bold"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/result_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp"
+            android:layout_centerVertical="true">
+
+            <com.google.android.material.progressindicator.CircularProgressIndicator
+                android:id="@+id/progress_result"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                app:indicatorSize="80dp"
+                app:indicatorDirectionCircular="clockwise"
+                app:indicatorInset="10dp"
+                app:trackCornerRadius="15dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:progress="60"
+                />
+
+            <TextView
+                android:id="@+id/text_view_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                app:layout_constraintBottom_toBottomOf="@+id/progress_result"
+                app:layout_constraintEnd_toEndOf="@+id/progress_result"
+                app:layout_constraintStart_toStartOf="@+id/progress_result"
+                app:layout_constraintTop_toTopOf="@+id/progress_result"
+                tools:text="60%" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <Button
+            android:id="@+id/btn_result_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/result_view"
+            android:layout_centerHorizontal="true"
+            android:text="OK"
+            android:backgroundTint="@color/blue"
+            android:fontFamily="@font/hvd"
+            android:textColor="@color/white"/>
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
