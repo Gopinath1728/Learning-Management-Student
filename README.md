@@ -5,8 +5,7 @@ I have developed this project to help students stay up to date with their learni
 ## Student Application
 This application is designed for the students. The students get authenticated when their data is uploaded to database. The login details can be obtained from the Admin.
 The student can check his daily timetable displayed right at the top of the homescreen in the application. When the teaching mode is Online, the time slot turns blue, 
-and when clicked, the student joins the online class. A student can check all his attendance details, number of days present and absent for each subject respectively. A student can
-check his courses and the couse materials which will be available in Google Drive. The application takes the user to google drive using WebView. 
+and when clicked, the student joins the online class. A student can check all his attendance details, number of days present and absent for each subject respectively. A student can check his courses and the couse materials which will be available in Google Drive. The application takes the user to google drive using WebView. Students can view the messages sent to them. They can check available quiz and attend them. If already attended they can view their scores. They can also check the announcements, their academic performance and available examinations.
 ## Tech
 1. This project is built on MVVM Architecture.
 2. Firebase Authentication is used to ease the user authentication.
@@ -23,6 +22,8 @@ check his courses and the couse materials which will be available in Google Driv
 7. Online Class in Jitsi Meet (Yet to include)
 
 ## Sample
+
+https://user-images.githubusercontent.com/49778072/149361812-0dba56e1-1315-4641-8813-69e27ce9b41c.mp4
 
 
 ## External Libraries used:
