@@ -21,10 +21,6 @@ and when clicked, the student joins the online class. A student can check all hi
 6. Send Message to Students and Teachers.
 7. Online Class in Jitsi Meet (Yet to include)
 
-## Sample
-
-https://user-images.githubusercontent.com/49778072/149361812-0dba56e1-1315-4641-8813-69e27ce9b41c.mp4
-
 
 ## External Libraries used:
 1. Firebase
